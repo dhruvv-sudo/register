@@ -4,6 +4,7 @@
     "email": "dhruvvira17@gmail.com"
   },
   "records": {
-    "CNAME": "dhruv-vira.netlify.app"
+    "CNAME": "dhruv-vira.netlify.app",
+    "TXT": "google-site-verification=CmOdwES7_pivdJYUr6KpxxfGZgd0u8E8FQ_3OkpZjvA"
   }
 }
